@@ -6,9 +6,9 @@
 
 🚀 Projects & Research:<br/>
 
-**Red-Teaming LLM Agents **– Identifying vulnerabilities in AI systems using adversarial attacks.<br/>
-**Home Pro** – Implementing security and cost-efficient solutions for ride-sharing applications.<br/>
-**Dawg Pool **– Optimized scheduling algorithms to improve ride-sharing efficiency by 25%.<br/>
+Red-Teaming LLM Agents – Identifying vulnerabilities in AI systems using adversarial attacks.<br/>
+Home Pro – Implementing security and cost-efficient solutions for ride-sharing applications.<br/>
+Dawg Pool– Optimized scheduling algorithms to improve ride-sharing efficiency by 25%.<br/>
 
 📌 Experience & Leadership:<br/>
 
