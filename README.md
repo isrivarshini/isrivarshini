@@ -3,7 +3,7 @@
 🔹 Master’s in Computer Science @ University of Georgia (Expected May 2025)<br/>
 🔹 Passionate about creating impact where I go!!<br/>
 
-🚀 Projects & Research:<br/>
+🚀 Projects:<br/>
 
 Red-Teaming LLM Agents – Identifying vulnerabilities in AI systems using adversarial attacks.<br/>
 Home Pro – Implementing security and cost-efficient solutions for ride-sharing applications.<br/>
