@@ -24,6 +24,8 @@ Exploring cloud-based solutions & automation<br/>
 📫 Let’s Connect!<br/>
 🔗 [LinkedIn](www.linkedin.com/in/sriinakollu07)<br/>
 
+(![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=isrivarshini&show_icons=true&theme=radical))
+
 <!--
 **isrivarshini/isrivarshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
