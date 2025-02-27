@@ -1,13 +1,14 @@
 👋 Hi, I'm Sri Varshini Inakollu!
-🔹 Master’s in Computer Science @ University of Georgia (Expected May 2025)
-🔹 Passionate about Cybersecurity, AI, and Software Development
-🔹 Skilled in Java, C++, Python, SQL, Firebase, and Web Technologies
+🔹 Master’s in Computer Science @ University of Georgia (Expected May 2025)<br/>
+🔹 Passionate about Cybersecurity, AI, and Software Development<br/>
+🔹 Skilled in Java, C++, Python, SQL, Firebase, and Web Technologies <br/>
 
 🚀 Projects & Research:
 
-**Red-Teaming LLM Agents **– Identifying vulnerabilities in AI systems using adversarial attacks.
-**Home Pro** – Implementing security and cost-efficient solutions for ride-sharing applications.
-**Dawg Pool **– Optimized scheduling algorithms to improve ride-sharing efficiency by 25%.
+**Red-Teaming LLM Agents **– Identifying vulnerabilities in AI systems using adversarial attacks.<br/>
+**Home Pro** – Implementing security and cost-efficient solutions for ride-sharing applications.<br/>
+**Dawg Pool **– Optimized scheduling algorithms to improve ride-sharing efficiency by 25%.<br/>
+
 📌 Experience & Leadership:
 
 **Information Security Intern** – Strengthened cybersecurity protocols, reducing exploits by 80%.
