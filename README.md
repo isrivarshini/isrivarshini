@@ -1,4 +1,5 @@
 👋 Hi, I'm Sri Varshini Inakollu!<br/>
+<br/>
 🔹 Master’s in Computer Science @ University of Georgia (Expected May 2025)<br/>
 🔹 Passionate about Cybersecurity, AI, and Software Development<br/>
 🔹 Skilled in Java, C++, Python, SQL, Firebase, and Web Technologies <br/>
