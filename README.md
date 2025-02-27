@@ -22,7 +22,7 @@ Developing scalable and secure applications<br/>
 Exploring cloud-based solutions & automation<br/>
 
 📫 Let’s Connect!<br/>
-🔗 LinkedIn [digital garden](www.linkedin.com/in/sriinakollu07)<br/>
+🔗 [LinkedIn](www.linkedin.com/in/sriinakollu07)<br/>
 
 <!--
 **isrivarshini/isrivarshini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
