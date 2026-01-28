@@ -13,8 +13,6 @@ Aug 2023 – May 2025 <br/>
 Relevant Coursework: Data Structures, Software Engineering, Database Management,  
 Recent Advancements in Artificial Intelligence, Mobile Application Development
 
-<br/><br/>
-
 <h3>🛠️ Technical Skills</h3>
 <b>Languages:</b> Java, Python, C/C++, Go, Kotlin, Swift, SQL, JavaScript, TypeScript, JSP, HTML, CSS <br/>
 <b>Developer Tools:</b> Git, Docker, Kubernetes, Linux, AWS, Azure, GCP, Redis, Power BI, Tableau, Workato <br/>
@@ -25,12 +23,8 @@ Recent Advancements in Artificial Intelligence, Mobile Application Development
 <b>LexAudit</b><br/>
 Multi-agent legal invoice auditing system built using Gemini ADK with document parsing, rule-based classification, and anomaly detection
 
-<br/><br/>
-
 <b>Red Teaming LLM Agents</b><br/>
 Executed 50+ adversarial jailbreak attacks on ReAct and AutoScraper-based LLM agents using OpenAI APIs, uncovering alignment vulnerabilities
-
-<br/><br/>
 
 <b>Real-Time Chat Application</b><br/>
 Built MERN stack chat platform with WebSockets, MongoDB persistence, presence tracking, and optimistic UI updates
