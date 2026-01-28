@@ -3,13 +3,15 @@
 💻 Software Engineer | Full-Stack Developer | CS Grad Student @ University of Georgia
 
 I’m a software engineer with a strong passion for building scalable systems, clean user experiences, and data-driven solutions. I enjoy working end-to-end — from designing intuitive interfaces to implementing reliable backend services and intelligent models.<br/>
-🔹 Passionate about creating impact where I go!!<br/>
+Passionate about creating impact where I go!!<br/>
 
-🚀 Projects:<br/>
+🚀 What I Build<br/>
 
-Red-Teaming LLM Agents – Identifying vulnerabilities in AI systems using adversarial attacks.<br/>
-Home Pro – Implementing security and cost-efficient solutions for ride-sharing applications.<br/>
-Dawg Pool– Optimized scheduling algorithms to improve ride-sharing efficiency by 25%.<br/>
+🌐 Scalable web applications using modern frontend and backend frameworks<br/>
+🤖 Machine learning & AI solutions with a focus on real-world impact<br/>
+📱 Mobile applications with clean architecture and smooth UX<br/>
+🗄️ Efficient data systems with well-designed schemas and optimized queries<br/>
+
 
 📌 Experience & Leadership:<br/>
 
