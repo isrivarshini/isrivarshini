@@ -1,28 +1,78 @@
-👋 Hi, I'm Sri Varshini Inakollu!<br/>
-<br/>
-💻 Software Engineer | Full-Stack Developer | CS Grad Student @ University of Georgia
+<h2>👋 Hi, I'm Sri Varshini Inakollu</h2>
 
-I’m a software engineer with a strong passion for building scalable systems, clean user experiences, and data-driven solutions. I enjoy working end-to-end — from designing intuitive interfaces to implementing reliable backend services and intelligent models.<br/>
-Passionate about creating impact where I go!!<br/>
+<b>Software Engineer | Full-Stack & Backend | AI & Systems Enthusiast</b><br/>
+Mountain View, CA<br/>
+📞 762-728-1403 <br/>
+📧 inakollusri@gmail.com <br/>
+🔗 linkedin.com/in/sriinakollu07
 
-🚀 What I Build<br/>
+<br/><br/>
 
-🌐 Scalable web applications using modern frontend and backend frameworks<br/>
-🤖 Machine learning & AI solutions with a focus on real-world impact<br/>
-📱 Mobile applications with clean architecture and smooth UX<br/>
-🗄️ Efficient data systems with well-designed schemas and optimized queries<br/>
+<h3>🎓 Education</h3>
+<b>University of Georgia</b> — Athens, GA <br/>
+Master of Science in Computer Science <br/>
+Aug 2023 – May 2025 <br/>
+Relevant Coursework: Data Structures, Software Engineering, Database Management,  
+Recent Advancements in Artificial Intelligence, Mobile Application Development
 
+<br/><br/>
 
-📌 Experience & Leadership:<br/>
+<h3>🛠️ Technical Skills</h3>
+<b>Languages:</b> Java, Python, C/C++, Go, Kotlin, Swift, SQL, JavaScript, TypeScript, JSP, HTML, CSS <br/>
+<b>Developer Tools:</b> Git, Docker, Kubernetes, Linux, AWS, Azure, GCP, Redis, Power BI, Tableau, Workato <br/>
+<b>Frameworks & Technologies:</b> React, Node.js, Express.js, Flask, Django, JUnit
 
-**Information Security Intern** – Strengthened cybersecurity protocols, reducing exploits by 80%.<br/>
-**Student Supervisor** – Managing operations & leading a team of 20+ employees.<br/>
+<br/><br/>
 
-💡 What I’m Working On:<br/>
+<h3>💼 Experience</h3>
 
-Enhancing AI security and LLM robustness<br/>
-Developing scalable and secure applications<br/>
-Exploring cloud-based solutions & automation<br/>
+<b>ABE Scott Enterprises</b> — Product Manager Intern <br/>
+Atlanta, GA | Nov 2025 – Present <br/>
+• Architected OAuth 2.0 authentication with Google & Apple sign-in using JWT-based session management across React Native and Node.js/Express <br/>
+• Built real-time ride comparison engine integrating Uber & Lyft APIs with Redis caching and PostgreSQL persistence <br/>
+• Designed GTFS parser for Atlanta MARTA, enabling real-time route planning and schedule lookups
+
+<br/><br/>
+
+<b>Choovio Inc</b> — Product Manager / Software Engineer <br/>
+Laguna Hills, CA | Jun 2025 – Nov 2025 <br/>
+• Developed SaaS platform for LoRaWAN IoT fleet management using React, Next.js, and shadcn/ui with Go-based backend APIs <br/>
+• Implemented production-grade JWT authentication with refresh token handling and secure multi-tenant access <br/>
+• Built CI/CD pipelines using GitHub Actions and coordinated AWS deployments for staging and production
+
+<br/><br/>
+
+<b>University of Georgia</b> — Mobile Application Developer <br/>
+Athens, GA | Aug 2023 – May 2025 <br/>
+• Engineered Android application using Java, MVVM, LiveData, ViewModel, and Room for offline-first persistence <br/>
+• Integrated Firebase Realtime Database and Authentication with local caching and conflict resolution <br/>
+• Implemented robust testing using JUnit and Espresso for unit, integration, and UI test coverage
+
+<br/><br/>
+
+<b>Pullulate Pvt Ltd</b> — Founding Software Engineer <br/>
+Hyderabad, India | May 2021 – Jun 2023 <br/>
+• Integrated Razorpay payment gateway using Go with tokenized transactions, webhook handling, and retry logic <br/>
+• Designed OAuth 2.0 authentication service with JWT rotation, MFA, bcrypt hashing, and AES encryption <br/>
+• Built Kubernetes-based microservices with Go REST APIs, PostgreSQL, health checks, and zero-downtime deployments
+
+<br/><br/>
+
+<h3>🚀 Projects</h3>
+
+<b>LexAudit</b><br/>
+Multi-agent legal invoice auditing system built using Gemini ADK with document parsing, rule-based classification, and anomaly detection
+
+<br/><br/>
+
+<b>Red Teaming LLM Agents</b><br/>
+Executed 50+ adversarial jailbreak attacks on ReAct and AutoScraper-based LLM agents using OpenAI APIs, uncovering alignment vulnerabilities
+
+<br/><br/>
+
+<b>Real-Time Chat Application</b><br/>
+Built MERN stack chat platform with WebSockets, MongoDB persistence, presence tracking, and optimistic UI updates
+
 
 💻 Technical Skills:<br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
