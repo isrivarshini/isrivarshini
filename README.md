@@ -2,7 +2,6 @@
 
 <b>Software Engineer | Full-Stack & Backend | AI & Systems Enthusiast</b><br/>
 Mountain View, CA<br/>
-📞 762-728-1403 <br/>
 📧 inakollusri@gmail.com <br/>
 🔗 linkedin.com/in/sriinakollu07
 
