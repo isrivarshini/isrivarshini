@@ -1,6 +1,8 @@
 👋 Hi, I'm Sri Varshini Inakollu!<br/>
 <br/>
-🔹 Master’s in Computer Science @ University of Georgia (Expected May 2025)<br/>
+💻 Software Engineer | Full-Stack Developer | CS Grad Student @ University of Georgia
+
+I’m a software engineer with a strong passion for building scalable systems, clean user experiences, and data-driven solutions. I enjoy working end-to-end — from designing intuitive interfaces to implementing reliable backend services and intelligent models.<br/>
 🔹 Passionate about creating impact where I go!!<br/>
 
 🚀 Projects:<br/>
