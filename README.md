@@ -6,7 +6,6 @@ Mountain View, CA<br/>
 📧 inakollusri@gmail.com <br/>
 🔗 linkedin.com/in/sriinakollu07
 
-<br/><br/>
 
 <h3>🎓 Education</h3>
 <b>University of Georgia</b> — Athens, GA <br/>
