@@ -6,7 +6,6 @@ I'm a software engineer in San Francisco who likes building things that actually
 
 - **Resona Semiconductor**: Member of Technical Staff. I write high-performance code in JAX to run math-heavy calculations on GPUs, and connect software to research hardware.
 - **Squad Software**: Agentic AI engineer, building multi-agent systems and developer tooling.
-- **BeBoldly** (*Breaking Old Limits Daily*): a GenZ tech and mindset community I run on the side.
 
 ## 🚀 Things I've built
 
